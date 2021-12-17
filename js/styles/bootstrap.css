@@ -1,0 +1,73 @@
+h1 {
+    font-size: medium;
+    font: weight 4px; ;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 25px;
+    color: blue;
+    
+}
+p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 20px;
+    color: black;
+    text-indent: 20px;
+}
+ul{
+    font-style: normal;
+   
+}
+a{
+color: rgba(0, 13, 255, 0.912);
+font-style: normal;
+}
+p1{
+    border:2px, solid, green;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h5{
+    color: blue;
+}
+i2{
+font-style: italic;
+font-size: small;
+color:blue;
+
+nav;
+  top: 5px;
+  right:15px;
+  height: 1000px;
+  padding-left: 15px;
+  padding-right: 15px;
+  z-index: 0;
+}
+.Header{
+    top: 5px;
+    height: 5000px;
+    padding-left: 15px;
+    padding-right: 15px;
+    Position: relative;
+    z-index: 10;
+}
+.Tableau{
+    bottom: 575px;
+    width:900px;
+    margin-right: 1000px;
+    margin-left: 1000px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.footer{
+    background-color: whitesmoke;
+    height:550px;
+    text-anchor: middle;
+    padding-right: 250px;
+    padding-left: 250px;
+    bottom: 10px;
+}

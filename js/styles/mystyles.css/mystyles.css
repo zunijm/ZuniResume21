@@ -1,0 +1,39 @@
+h1 {
+    font-size: medium;
+    font: weight 4px; ;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 25px;
+}
+p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 20px;
+    color: black;
+    text-indent: 20px;
+}
+ul{
+    font-style: normal;
+   
+}
+a{
+color: rgba(0, 13, 255, 0.912);
+font-style: normal;
+}
+p1{
+    border:2px, solid, green;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h5{
+    color: blue;
+}
+i2{
+font-style: italic;
+font-size: small;
+color:blue;
+}
